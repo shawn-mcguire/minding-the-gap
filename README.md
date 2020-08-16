@@ -1,5 +1,5 @@
 # minding-the-gap
-Codebase to investigate correlation of preference gap between rich and poor and policy adoption rates.
+Codebase to investigate correlation of preference gap between rich and poor and policy adoption rates.  The dataset (gilens_data_sm_copy.csv) is a subset of the dataset procured by Prof. Martin Gilens located at https://www.russellsage.org/economic-inequality-and-political-representation
 
 # Usage
 1. slope_vs_p90_adoption_plotter.py plots adoption rate vs (p90 - p10) and p90.
