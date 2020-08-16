@@ -1,5 +1,5 @@
 # minding-the-gap
-Codebase for assessing effect of preference gap between rich and poor on policy adoption rates.
+Codebase to investigate correlation of preference gap between rich and poor on policy adoption rates.
 
 # Usage
 1. slope_vs_p90_adoption_plotter.py plots adoption rate vs (p90 - p10) and p90.
