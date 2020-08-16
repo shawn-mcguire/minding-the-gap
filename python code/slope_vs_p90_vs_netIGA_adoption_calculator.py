@@ -19,8 +19,8 @@ start out low and netiga bounds start out high
 import pandas as pd
 import numpy as np
 
-dataFolder = '/Users/shawnmcguire/Desktop/SAVE/Python Working Directory/'   #  location of data file 
-data = pd.read_csv(dataFolder + 'gilens_data_sm.csv')
+
+data = pd.read_csv('./gilens_data_sm_copy.csv')
 data = data.iloc[0:1836]
 
 # calculate mean and std of netiga values and p90 values
